@@ -1,2 +1,2 @@
 def entry(value: int) -> int:
-    return value
+    return value + 1
